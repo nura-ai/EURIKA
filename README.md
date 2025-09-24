@@ -20,7 +20,7 @@ This project operates on an open-source framework, inviting contributions from r
 All progress, data, and design specifications will be transparently documented in this repository.
 
 ## 📄 Documentation
-* [Roadmap & Milestones](/Roadmap.md)
+* [Roadmap & Milestones](https://github.com/nura-ai/EURIKA/blob/main/Roadmap%20and%20Milestones/roadmap.md)
 * [Technical Specifications](/Technical_Specs.md)
 * [Ethical Framework](/Ethics.md)
 * [Resource & Funding Proposals](/Proposals.md)
