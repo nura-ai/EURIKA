@@ -19,6 +19,7 @@ This project operates on an open-source framework, inviting contributions from r
 
 All progress, data, and design specifications will be transparently documented in this repository.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y31IK1RV)
 ## 📄 Documentation
 * [Roadmap & Milestones](https://github.com/nura-ai/EURIKA/blob/main/Roadmap%20and%20Milestones/roadmap.md)
 * [Technical Specifications](https://github.com/nura-ai/EURIKA/blob/main/Technical%20Specifications/technical_specs.md)
