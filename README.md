@@ -22,7 +22,7 @@ All progress, data, and design specifications will be transparently documented i
 ## 📄 Documentation
 * [Roadmap & Milestones](https://github.com/nura-ai/EURIKA/blob/main/Roadmap%20and%20Milestones/roadmap.md)
 * [Technical Specifications](/Technical_Specs.md)
-* [Ethical Framework](/Ethics.md)
+* [Ethical Framework](https://github.com/nura-ai/EURIKA/blob/main/Ethical%20Framework/ethics.md)
 * [Resource & Funding Proposals](/Proposals.md)
 
 
